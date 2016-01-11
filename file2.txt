@@ -1,1 +1,2 @@
+i a new line on a branch called ThisIsABranch
 this is file 2 added in the branch
