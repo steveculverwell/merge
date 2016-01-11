@@ -1,1 +1,1 @@
-ABCDEFthis is file one somehing extra
+this is text from a branch to merge into master ABCDEFthis is file one somehing extra
