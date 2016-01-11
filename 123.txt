@@ -1,1 +1,2 @@
+this is a second new line
 a new line
